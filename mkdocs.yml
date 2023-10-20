@@ -1,0 +1,54 @@
+site_name: dbnetsoft Knowledge Base 
+site_author: 'Tobias Däuber'
+docs_dir: docs/
+repo_name: 'dbnetsoft/IDCamProDocumentation'
+repo_url: 'https://github.com/dbnetsoft/IDCamProDocumentation'
+nav:
+    - Home:
+        - Introduction: index.md
+        - Links: links.md        
+    - Events:
+        - Events: events/index.md
+        - Pre-Event Checklist: events/preeventchecklist/index.md
+    - Configuration:
+        - Configuration: configuration/index.md
+        - Communication Ports: configuration/ports/index.md            
+theme:
+    name: "material"
+    custom_dir: "overrides"
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.expand
+        - announce.dismiss
+    logo: assets/images/logo.ico
+    palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+copyright: Copyright &copy; 2023 Tobias Däuber, [db]netsoft
+
+extra:
+  generator: false
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - def_list
+    - md_in_html
+
+plugins:
+  - glightbox
