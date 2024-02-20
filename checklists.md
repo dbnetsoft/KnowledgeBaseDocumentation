@@ -13,7 +13,7 @@
 
 ## During Event Checklists
 
-
+* Perdicoally check for free dfisk space
 
 ## After Event Checklists
 
