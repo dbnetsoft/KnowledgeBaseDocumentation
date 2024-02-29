@@ -3,7 +3,7 @@
 * [Knowledge Base](README.md)
 * [Checklists](checklists.md)
 * [Scripting](scripting/README.md)
-  * [Variable Types](scripting/variable-types.md)
+  * [Types](scripting/types.md)
   * [Differences](scripting/differences.md)
   * [How to begin](scripting/how-to-begin.md)
   * [Functions](scripting/functions/README.md)
