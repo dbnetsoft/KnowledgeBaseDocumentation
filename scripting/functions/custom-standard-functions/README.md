@@ -1,8 +1,6 @@
-# Custom Functions
+# Custom Standard Functions
 
-### Custom functions <a href="#custom-functions" id="custom-functions"></a>
-
-In addition to that, and also to interact nicely with the needs of timekeepers, RaceResultExchange also comes with a wide range of utility functions:
+Scripting also provides the following custom functions.
 
 | Method             | Parameters                                                                                         | Description                                                                                                                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
