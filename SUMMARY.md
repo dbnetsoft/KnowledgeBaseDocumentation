@@ -10,5 +10,6 @@
     * [Built-in Functions](scripting/functions/built-in-functions.md)
     * [Custom Standard Functions](scripting/functions/custom-standard-functions/README.md)
       * [ALGE-Timing D-Line/GAZ](scripting/functions/custom-standard-functions/alge-timing-d-line-gaz.md)
+  * [Common Mistakes](scripting/common-mistakes.md)
 * [Page 1](page-1.md)
 * [Page](page.md)
