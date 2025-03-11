@@ -34,3 +34,7 @@ Makre sure to have the **leap second** setting correct on your timing devices th
 A good way to check your syncing is to open [https://time.gov/](https://time.gov/) in your browser. This website will tell you the deviation of your system as well as the current time in general.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Tools
+
+You can also use a software like [NetTime ](https://www.timesynctool.com/)to check and do sync.&#x20;
