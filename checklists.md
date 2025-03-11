@@ -5,7 +5,8 @@
 ## Pre-Event Checklists
 
 * Clock Sync\
-  Make sure that computer clock is synced to. Either use the windows clock tool and have it sync now or have any 3rd party app installed to sync clock to NTP server.
+  Make sure that computer clock is synced to. Either use the windows clock tool and have it sync now or have any 3rd party app installed to sync clock to NTP server.\
+  See [Time Sync section](knowledge-base/time-sync.md) for more information.
 * Enough diskspace\
   Make sure to have enough space left on your disk drives to accompany for your needs. Apps like photofinish or IDCam might consume a lot of disk space.
 * Windows Updates\
