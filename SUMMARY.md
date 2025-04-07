@@ -2,6 +2,7 @@
 
 * [Knowledge Base](README.md)
   * [Time Sync](knowledge-base/time-sync.md)
+  * [Licensing](knowledge-base/licensing.md)
 * [Checklists](checklists.md)
 * [Scripting](scripting/README.md)
   * [Types](scripting/types.md)

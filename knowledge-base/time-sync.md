@@ -9,7 +9,7 @@ All of your equipment should have the same time. Easiest is if you have timing s
 Computers are usually well synced to an NTP server from Microsoft. In case they are off, you can always _right click_ on the time in the lower right corner - _Adjust Time & Date_ - _Sync now_ button. \
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### dbnetsoft Software
 
@@ -17,7 +17,7 @@ Each dbnetsoft software follows the same syncing strategy, sometimes deviating f
 
 You can click on _?_ - _About_ - _Time/Sync_ tab and see the status of the sync:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To the left you see the time of the computer and it's deviation from internet time. A value below .5s is recommended. If you want to sync your comptuer, you can clic kthe _Sync to NTP_ button with the shield, asking for administrator approval and then starting a script to sync windows. It is basically doing the same as the _Sync now_ button in the windows _Adjust Time/Date_ settings page.&#x20;
 
